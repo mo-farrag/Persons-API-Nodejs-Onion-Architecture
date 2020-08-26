@@ -1,7 +1,7 @@
 {
-  "name": "cognitev-technical-assessment",
+  "name": "simple-api",
   "version": "1.0.0",
-  "description": "Cognitev technical assessment for technical lead position, that follows DDD + Clean Architecture principles",
+  "description": "a simple API that follows DDD + Clean Architecture principles",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
